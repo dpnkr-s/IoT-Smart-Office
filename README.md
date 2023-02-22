@@ -1,4 +1,4 @@
-## SensiSpace: IoT system for smart office
+## SensiSpace: IoT system for Smart Office
 
 SensiSpace provides the perfect balance of comfort and efficiency in office spaces by utilizing Internet-of-Things (IoT) technologies which transforms any office room into an intelligent connected system.
 
